@@ -1,2 +1,0 @@
-# snovving.github.io
-MyBlog
