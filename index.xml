@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>snovving</title>
-    <link>https://examplesite.com/</link>
+    <link>https://snovving.github.io/</link>
     <description>Recent content on snovving</description>
     <image>
-      <url>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://snovving.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://snovving.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 17 Sep 2021 01:04:57 +0800</lastBuildDate><atom:link href="https://examplesite.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 17 Sep 2021 01:04:57 +0800</lastBuildDate><atom:link href="https://snovving.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>过去现在还有未来</title>
-      <link>https://examplesite.com/posts/%E8%BF%87%E5%8E%BB%E7%8E%B0%E5%9C%A8%E8%BF%98%E6%9C%89%E6%9C%AA%E6%9D%A5/</link>
+      <link>https://snovving.github.io/posts/%E8%BF%87%E5%8E%BB%E7%8E%B0%E5%9C%A8%E8%BF%98%E6%9C%89%E6%9C%AA%E6%9D%A5/</link>
       <pubDate>Fri, 17 Sep 2021 01:04:57 +0800</pubDate>
       
-      <guid>https://examplesite.com/posts/%E8%BF%87%E5%8E%BB%E7%8E%B0%E5%9C%A8%E8%BF%98%E6%9C%89%E6%9C%AA%E6%9D%A5/</guid>
+      <guid>https://snovving.github.io/posts/%E8%BF%87%E5%8E%BB%E7%8E%B0%E5%9C%A8%E8%BF%98%E6%9C%89%E6%9C%AA%E6%9D%A5/</guid>
       <description>大学三年的一些碎碎念 我想了很久要以什么作为新博客的序曲，或许是一股脑地把以前零零散散的博文搬进来才是正经事，人总是喜新厌旧的，这点在我身上犹为突出，三年时间里我不知换了多少 id ，搭建了不知多少博客，这与我电脑重置次数相对应——因为 Win10 总有个最开始的用户名。我或许真有点完美主义者的毛病，但又常常拘泥于过去，所以我想还是以终点作为起点吧。
 其实高考完我并没有很明确的职业取向，以前还是个艺术生的我更不用说，不知怎么的就选了计算机这个专业，在现在的我看来，也许说得上是缘分，而与安全牵扯在一起更是妙不可言。
 起因我记不大清楚了，大概是网上神乎其神对黑客的描述，热血上头就兴冲冲从网工转到了信安，参加了网安实验室初试，我至今还能回想起初试的场景——穿着臃肿笨重的大黑袄子的我，杵在机房的角落，那时候连 BP 、hackbar 都不会用，在简历上引以为傲的密码学“知识”，面对一些难题也束手无策，来的人好像只有二十多个，时间过半陆续有些人放弃走了，我也不知道那时候是靠着什么厚着脸皮坚持下来的，然后等到了学长来我这探望做题情况，他解释了一堆但我还是一头雾水，最后的最后还是卡着线进了实验室。
@@ -37,10 +37,10 @@
     
     <item>
       <title>About</title>
-      <link>https://examplesite.com/about/</link>
+      <link>https://snovving.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.com/about/</guid>
+      <guid>https://snovving.github.io/about/</guid>
       <description>about</description>
     </item>
     

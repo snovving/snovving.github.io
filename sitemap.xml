@@ -2,27 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://examplesite.com/categories/</loc>
+    <loc>https://snovving.github.io/categories/</loc>
     <lastmod>2021-09-17T01:04:57+08:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/posts/</loc>
+    <loc>https://snovving.github.io/posts/</loc>
     <lastmod>2021-09-17T01:04:57+08:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/</loc>
+    <loc>https://snovving.github.io/</loc>
     <lastmod>2021-09-17T01:04:57+08:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/categories/%E7%94%9F%E6%B4%BB/</loc>
+    <loc>https://snovving.github.io/categories/%E7%94%9F%E6%B4%BB/</loc>
     <lastmod>2021-09-17T01:04:57+08:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/posts/%E8%BF%87%E5%8E%BB%E7%8E%B0%E5%9C%A8%E8%BF%98%E6%9C%89%E6%9C%AA%E6%9D%A5/</loc>
+    <loc>https://snovving.github.io/posts/%E8%BF%87%E5%8E%BB%E7%8E%B0%E5%9C%A8%E8%BF%98%E6%9C%89%E6%9C%AA%E6%9D%A5/</loc>
     <lastmod>2021-09-17T01:04:57+08:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/about/</loc>
+    <loc>https://snovving.github.io/about/</loc>
   </url><url>
-    <loc>https://examplesite.com/archives/</loc>
+    <loc>https://snovving.github.io/archives/</loc>
   </url><url>
-    <loc>https://examplesite.com/search/</loc>
+    <loc>https://snovving.github.io/search/</loc>
   </url><url>
-    <loc>https://examplesite.com/tags/</loc>
+    <loc>https://snovving.github.io/tags/</loc>
   </url>
 </urlset>
