@@ -2,14 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://snovving.github.io/posts/ff14%E9%82%A3%E5%95%A5%E9%BB%91%E9%AD%94%E7%9A%84%E6%9E%81%E9%92%BB%E7%9F%B3%E7%A5%9E%E5%85%B5%E6%89%8B%E6%9C%AD/</loc>
+    <lastmod>2021-09-17T16:42:10+08:00</lastmod>
+  </url><url>
     <loc>https://snovving.github.io/categories/</loc>
-    <lastmod>2021-09-17T01:04:57+08:00</lastmod>
+    <lastmod>2021-09-17T16:42:10+08:00</lastmod>
+  </url><url>
+    <loc>https://snovving.github.io/tags/ff14-%E6%9E%81%E7%A5%9E/</loc>
+    <lastmod>2021-09-17T16:42:10+08:00</lastmod>
   </url><url>
     <loc>https://snovving.github.io/posts/</loc>
-    <lastmod>2021-09-17T01:04:57+08:00</lastmod>
+    <lastmod>2021-09-17T16:42:10+08:00</lastmod>
   </url><url>
     <loc>https://snovving.github.io/</loc>
-    <lastmod>2021-09-17T01:04:57+08:00</lastmod>
+    <lastmod>2021-09-17T16:42:10+08:00</lastmod>
+  </url><url>
+    <loc>https://snovving.github.io/tags/</loc>
+    <lastmod>2021-09-17T16:42:10+08:00</lastmod>
+  </url><url>
+    <loc>https://snovving.github.io/categories/%E6%B8%B8%E6%88%8F/</loc>
+    <lastmod>2021-09-17T16:42:10+08:00</lastmod>
   </url><url>
     <loc>https://snovving.github.io/categories/%E7%94%9F%E6%B4%BB/</loc>
     <lastmod>2021-09-17T01:04:57+08:00</lastmod>
@@ -22,7 +34,5 @@
     <loc>https://snovving.github.io/archives/</loc>
   </url><url>
     <loc>https://snovving.github.io/search/</loc>
-  </url><url>
-    <loc>https://snovving.github.io/tags/</loc>
   </url>
 </urlset>
